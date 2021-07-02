@@ -19,3 +19,7 @@ js ファイルの raw URL をクリックするとインストールされま�
 
 [SimpleNote](https://app.simplenote.com/) において、Ctrl+F がカーソル移動ではなく
 検索フィールドへジャンプするショートカットキーにされるのを防ぎます。
+
+### [twitter_colorize_by_type.user.js](https://github.com/yoshizow/userscripts/raw/main/twitter_colorize_by_type.user.js)
+
+Twitter のタイムライン上で、RT やいいねのツイートの背景色を変更します。
